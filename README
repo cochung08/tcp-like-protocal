@@ -1,6 +1,6 @@
 Overview
 
-Implement a udp socket based protocal with  data-transmission reliability, flow control and congestion control in the client and server using TCP-like automatic repeat request (ARQ) sliding window mechanisms
+Simulate a tcp protocal with  data-transmission reliability, flow control and congestion control in the client and server using TCP-like automatic repeat request (ARQ) sliding window mechanisms
 
 
 
